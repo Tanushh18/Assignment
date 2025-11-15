@@ -1,0 +1,10 @@
+node_modules/
+.env
+.DS_Store
+build/
+dist/
+.idea/
+.vscode/
+npm-debug.log
+yarn-error.log
+Public/Screenshot-2025-11-15-8.03.18PM.png
