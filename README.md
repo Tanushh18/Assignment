@@ -29,11 +29,11 @@ Assignment/                # repo root (this README)
 ## ✨ Screenshots
 These are live screenshots of the running frontend application, stored in the Public folder.
 
-![Screenshot 1](Public/Screenshot%202025-11-15%20at%208.03.14%20PM.png)
-![Screenshot 2](Public/Screenshot%202025-11-15%20at%208.03.18%20PM.png)
-![Screenshot 3](Public/Screenshot%202025-11-15%20at%208.03.22%20PM.png)
-![Screenshot 4](Public/Screenshot%202025-11-15%20at%208.03.26%20PM.png)
-![Screenshot 5](Public/Screenshot%202025-11-15%20at%208.03.29%20PM.png)
+![Screenshot 1](Public/S1.png)
+![Screenshot 2](Public/S2.png)
+![Screenshot 3](Public/S3.png)
+![Screenshot 4](Public/S4.png)
+![Screenshot 5](Public/S5.png)
 
 ---
 
@@ -210,3 +210,4 @@ Then reference them in the README as `Public/<filename.png>` — this README alr
 
 ## ❤️ Final notes
 This README is intentionally visual and designer-friendly: images are included and the run steps are presented as short, clear commands. If you want I can produce a compact single-page PDF or a short demo script you can send along with your submission.
+ 
