@@ -29,11 +29,11 @@ Assignment/                # repo root (this README)
 ## ✨ Screenshots
 These are live screenshots of the running frontend application, stored in the Public folder.
 
-![Screenshot 1](Public/Screenshot 2025-11-15 at 8.03.14 PM.png)
-![Screenshot 2](Public/Screenshot 2025-11-15 at 8.03.18 PM.png)
-![Screenshot 3](Public/Screenshot 2025-11-15 at 8.03.22 PM.png)
-![Screenshot 4](Public/Screenshot 2025-11-15 at 8.03.26 PM.png)
-![Screenshot 5](Public/Screenshot 2025-11-15 at 8.03.29 PM.png)
+![Screenshot 1](Public/Screenshot%202025-11-15%20at%208.03.14%20PM.png)
+![Screenshot 2](Public/Screenshot%202025-11-15%20at%208.03.18%20PM.png)
+![Screenshot 3](Public/Screenshot%202025-11-15%20at%208.03.22%20PM.png)
+![Screenshot 4](Public/Screenshot%202025-11-15%20at%208.03.26%20PM.png)
+![Screenshot 5](Public/Screenshot%202025-11-15%20at%208.03.29%20PM.png)
 
 ---
 
